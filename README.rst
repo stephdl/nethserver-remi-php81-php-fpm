@@ -2,9 +2,9 @@
 nethserver-remi-php81-php-fpm
 =============================
 
-Configure default installation of PHP 8.0 running on FPM.
+Configure default installation of PHP 8.1 running on FPM.
 The default configuration of FPM is from remi repository and has
-been customized to listen on port 9008 (template: ``/etc/opt/remi/php81/php-fpm.d/z_nethserver.conf``).
+been customized to listen on port 9081 (template: ``/etc/opt/remi/php81/php-fpm.d/z_nethserver.conf``).
 
 Adding new configuration
 ========================
